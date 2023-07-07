@@ -165,10 +165,6 @@ The classifier are quiet correlated. This is a good sign! However we observe som
 
 My submitted file is: titanic-predictions.csv. 
 
-## Author
-
-* **Selim Amrouni** [selimamrouni](https://github.com/selimamrouni)
-
 
 
 
